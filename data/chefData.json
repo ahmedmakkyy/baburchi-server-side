@@ -1,0 +1,208 @@
+[
+    { 
+      "id" : 1,
+      "name": "John Doel",
+      "image": "john-smith.jpg",
+      "experience": "5 years",
+      "recipes": 10,
+      "likes": 500,
+      "img": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "recipes_list": [
+        {
+          "name": "Grilled Salmon",
+          "imgr": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.5
+        },
+        {
+          "name": "Roasted Chicken",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.8
+        },
+        {
+          "name": "Pesto Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Pasta", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    },
+
+    
+    { 
+      "id" : 2,
+      "name": "Robert Brown",
+      "image": "john-smith.jpg",
+      "experience": "7 years",
+      "recipes": 3,
+      "likes": 421,
+      "img":"https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg",
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "recipes_list": [
+        {
+          "name": "Grilled Salmon",
+          "imgr": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.1
+        },
+        {
+          "name": "Roasted Chicken",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.7
+        },
+        {
+          "name": "Pesto Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Pasta", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    },
+
+    { 
+      "id" : 3,
+      "name": "Ricky Scholes",
+      "image": "john-smith.jpg",
+      "experience": "9 years",
+      "recipes": 5,
+      "likes": 530,
+      "img": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg",
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "recipes_list": [
+        {
+          "name": "Fried Salmon",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.8
+        },
+        {
+          "name": "Grilled Chicken",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.5
+        },
+        {
+          "name": "Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Pasta", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    },
+
+    { 
+      "id" : 4,
+      "name": "Hamish Bennet",
+      "image": "john-smith.jpg",
+      "experience": "3 years",
+      "recipes": 4,
+      "likes": 324,
+      "img":"https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "recipes_list": [
+        {
+          "name": "Grilled Salmon",
+          "imgr": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.7
+        },
+        {
+          "name": "Chicken Breast Fry",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken breast", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.8
+        },
+        {
+          "name": "White Sauce Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Pasta", "White Sauce", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    },
+
+    { 
+      "id" : 5,
+      "name": "Donald Smith",
+      "image": "john-smith.jpg",
+      "experience": "6 years",
+      "recipes": 4,
+      "likes": 350,
+      "img":"data:image/jpeg;base64,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",
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "recipes_list": [
+        {
+          "name": "Grilled Salmon",
+          "imgr": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.5
+        },
+        {
+          "name": "Roasted Chicken",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.8
+        },
+        {
+          "name": "Egg Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Egg","Pasta", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    },
+
+    { 
+      "id" : 6,
+      "name": "Warner Jhon",
+      "image": "john-smith.jpg",
+      "experience": "2 years",
+      "recipes": 3,
+      "likes": 250,
+      "short_bio": "Chef John is passionate about using fresh, locally-sourced ingredients in his dishes. He loves experimenting with new flavors and techniques to create unique and memorable meals.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwqoLw0yDuCFZ-sFdDWmS7J0hAYVVI2q2BLCA9NaU3q-6IB9MfIcrrmH9M4xJewSU6Cg&usqp=CAU",
+      "recipes_list": [
+        {
+          "name": "Grilled Salmon",
+          "imgr": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe1-1655870645.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+          "ingredients": ["Salmon fillets", "Olive oil", "Lemon juice", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. In a small bowl, whisk together olive oil, lemon juice, minced garlic, salt, and pepper. 3. Brush the salmon fillets with the olive oil mixture. 4. Grill the salmon for 4-5 minutes per side, or until cooked to your desired level of doneness. 5. Serve hot.",
+          "rating": 4.5
+        },
+        {
+          "name": "Roasted Chicken",
+          "imgr":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg",
+          "ingredients": ["Chicken", "Olive oil", "Lemon", "Garlic", "Salt", "Pepper"],
+          "cooking_method": "1. Preheat oven to 400°F. 2. Season the chicken with salt and pepper. 3. In a small bowl, whisk together olive oil, lemon juice, and minced garlic. 4. Rub the olive oil mixture all over the chicken. 5. Roast the chicken for 45-50 minutes, or until cooked through. 6. Let rest for 5 minutes before serving.",
+          "rating": 4.8
+        },
+        {
+          "name": "Pesto Pasta",
+          "imgr":"https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/White-pasta-sauce.jpg",
+          "ingredients": ["Pasta", "Basil leaves", "Pine nuts", "Garlic", "Parmesan cheese", "Olive oil"],
+          "cooking_method": "1. Cook the pasta according to package directions. 2. In a food processor, pulse together basil leaves, pine nuts, minced garlic, grated parmesan cheese, and olive oil until smooth. 3. Drain the pasta and return it to the pot. 4. Add the pesto sauce to the pasta and toss to coat. 5. Serve hot.",
+          "rating": 4.3
+        }
+      ]
+    }
+
+
+  ]
+
